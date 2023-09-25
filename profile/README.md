@@ -4,6 +4,7 @@ Welcome to Nickvision! A team of developers looking to create quality, open-sour
 ## Software stack 🧑‍💻
 - Desktop applications with C# and .NET 7
     - GNOME platform with GTK 4 and Libadwaita (gir.core)
+    - Windows platform with WinUI (WindowsAppSDK)
 
 ## Experience the magic of Nickvision ✨
 <img src='https://raw.githubusercontent.com/NickvisionApps/.github/main/assets/banner.jpg'></img>
