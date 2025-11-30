@@ -4,7 +4,7 @@ Welcome to Nickvision! A team of developers looking to create quality, open-sour
 https://nickvision.org
 
 ## Software stack 🧑‍💻
-- Desktop applications in C++
+- Desktop applications in C#
     - GNOME (Linux) platform with Gtk 4 and libadwaita
     - Windows platform with WindowsAppSDK and WinUI 3
 
